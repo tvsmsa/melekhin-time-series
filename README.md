@@ -12,8 +12,11 @@
 
 # 3. EDA ВР
 EDA выполнен в task_1_timeseries.ipynb
+
 Результаты:
 
+| Признак | Результат |
+| ------ | --- | ---- | ----- | ---- | 
 | Количество наблюдений | 1826 |
 | Пропуски | 0 |
 | Дубликаты | 0 | 
@@ -22,9 +25,9 @@ EDA выполнен в task_1_timeseries.ipynb
 | Тренд | Непостоянный, пик в 2023 году |
 | Значимые экзогенные факторы | avg_temperature, humidity, urban_population, energy_price |
 
-![EDA графики](https://github.com/tvsmsa/melekhin-time-series/tree/energy-only/energy_eda.png)
+![EDA графики](energy_eda.png)
 
-![Энергопотребление по месяцам](https://github.com/tvsmsa/melekhin-time-series/tree/energy-only/monthly_energy.png)
+![Энергопотребление по месяцам](monthly_energy.png)
 
 # 4. Аномалии
 
